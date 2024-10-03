@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weiyong Si's Personal Page | About"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/

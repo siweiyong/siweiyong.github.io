@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Weiyong Si's Personal Page | Sitemap"
+title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
