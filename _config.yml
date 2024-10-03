@@ -24,10 +24,10 @@ author:
   avatar           : "SIWEI11201.jpg"
   name             : "Dr Weiyong Si"
   pronouns         : # example: "she/her"
-  bio              : "Dr. Weiyong Si is a Lecturer at the University of Essex, specializing in robotics and AI, with a focus on robot learning, control, and human-robot interaction."
+  bio              : "Dr Weiyong Si is a Lecturer at the University of Essex, specializing in robotics and AI, with a focus on robot learning, control, and human-robot interaction."
   location         : "Colchester, UK"
   employer         : "University of Essex"
-  uri              : "https://www.essex.ac.uk/people/SIWEI11201/Weiyong-Si"
+  uri              : # "https://www.essex.ac.uk/people/SIWEI11201/Weiyong-Si"
   email            : "w.si@essex.ac.uk" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "weiyong-si-52798a174"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

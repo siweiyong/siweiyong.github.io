@@ -1,13 +1,36 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Weiyong Si's Personal Page | About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Biography
+======
+[Dr Weiyong Si](https://www.essex.ac.uk/people/SIWEI11201/Weiyong-Si) is a Lecturer (Assistant Professor) at the School of Computer Science and Electronic Engineering, University of Essex. He previously worked as a Research Assistant and Associate Lecturer with the School of Engineering, University of the West of England, affiliated with the Bristol Robotics Lab, and received Ph.D degree in Robotics and Machine Learning. He has been working on robot learning, robot control, teleoperation, machine vision, and guidance and navigation of autonomous systems. His research interest lies in the insection between  AI and robotics. He currently focuses on robot learning and control, human-robot collaboration, mobile manipulation, and its applications in manufacturing, healthcare, and agriculture. 
+
+Dr Weiyong Si has a strong background in robotics and AI. He has practical project experience in intelligent control, machine learning, learning from demonstration, multimodal perception, planning and navigation of intelligent robots. He has led several practical projects, such as robot-assisted medical examination, flexible manufacturing and the navigation and guidance of autonomous UAVs. If you are interested in his research, please feel free to reach out to him by email.
+
+He is a member of the Robotics Group. He is an IEEE Member and reviewer for several top journals and conferences including, IEEE Transactions on Robotics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Automation Science and Engineering, ICRA, IROS etc. He is the co-organising chair and special session chair for 25th IEEE International Conference on Industrial Technology (ICIT), the local organising Committee of 27th International Conference on Automation and Computing (ICAC), and the session chair for ICRA2024. He is a guest editor for a special issue of Frontiers in Robotics and AI focused on exploring the integration of Large Language Models (LLMs) and Computational Intelligence (CI) techniques to enhance advanced robotic systems.
+
+
+Qualifications
+======
+- PhD University of the West of England, Bristol (2023)
+- MSc Beijing Institute of Technology (2018)
+
+
+Appointments
+======
+**University of Essex**
+- Lecturer, School of Computer Science and Electronic Engineering (9/2023 - Present)
+
+**Other Academic**
+- Reasearch Assistant, Bristol Robotics Laboratory (1/2020 - 9/2023)
+- Associate Lecturer, University of the West of England (9/2022 - 5/2023)
+
 
 A data-driven personal website
 ======
