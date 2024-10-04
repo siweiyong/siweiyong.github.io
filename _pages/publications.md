@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## Selected Journal Articles
-1. Si, W., Wang, N. and Yang, C. (2021), A review on manipulation skill acquisition through teleoperation-based learning from demonstration. Cogn. Comput. Syst, 3: 1-16. https://doi.org/10.1049/ccs2.12005
+1. Si, W., Wang, N. and Yang, C. (2021), A review on manipulation skill acquisition through teleoperation-based learning from demonstration. Cogn. Comput. Syst, 3: 1-16, doi: 10.1049/ccs2.12005. [Open Access Repository](https://repository.essex.ac.uk/36611/)
 2. W. Si, H. She and Z. Wang, "Fuzzy PID controller for UAV tracking moving target," 2017 29th Chinese Control And Decision Conference (CCDC), Chongqing, China, 2017, pp. 3023-3027, doi: 10.1109/CCDC.2017.7979027.
 
 
