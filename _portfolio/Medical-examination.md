@@ -1,6 +1,6 @@
 ---
 title: "Robot-assisted medical examination"
-excerpt: "Tele-echography has emerged as a promising and effective solution, leveraging the expertise of sonographers and the autonomy of robots to perform ultrasound scanning for patients residing in remote areas, without the need for in-person visits by the sonographer. Designing effective and natural human-robot interfaces for tele-echography remains challenging, with patient safety being a critical concern. In this article, we develop a teleoperation system for robot-assisted sonography with two different interfaces, a haptic device-based interface and a  low-cost 3D Mouse-based interface, which can achieve continuous and intuitive telemanipulation by a leader device with a small workspace.<br/><img src='/images/Teleoperationinterface-TASE (3).gif'>"
+excerpt: "Tele-echography has emerged as a promising and effective solution, leveraging the expertise of sonographers and the autonomy of robots to perform ultrasound scanning for patients residing in remote areas, without the need for in-person visits by the sonographer.  In this project, we develop a teleoperation system for robot-assisted sonography with two different interfaces, a haptic device-based interface and a  low-cost 3D Mouse-based interface, which can achieve continuous and intuitive telemanipulation by a leader device with a small workspace.<br/><img src='/images/Teleoperationinterface-TASE (3).gif'>"
 collection: portfolio
 ---
 
