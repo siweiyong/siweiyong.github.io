@@ -1,0 +1,9 @@
+---
+title: "Robot-assisted medical examination"
+excerpt: "This paper presents a multimodal human-robot interaction system integrating vision-language models (Florence 2), language interpretation (Llama 3.1), and speech recognition (Whisper) with fuzzy logic for precise control of a Dobot Magician robotic arm. Initial tests show 75% accuracy, highlighting its potential for more natural, efficient human-robot collaboration.<br/><img src='/images/dobot-hci-demo-short.gif'>"
+collection: portfolio
+---
+
+Understanding human intentions is becoming a critical aspect of human-robot interaction (HRI), bringing machine collaboration closer to natural human communication. This paper introduces a novel approach by integrating state-of-the-art vision-language models and speech processing with fuzzy logic for precise control of a Dobot Magician robotic arm. Leveraging Florence 2 for object detection, Llama 3.1 for language interpretation, and Whisper for speech recognition, the system offers an intuitive interface for seamless object manipulation. Our multimodal approach addresses the challenges of scene understanding and action execution, significantly improving interaction accuracy. In initial experiments using consumer-grade hardware, the system has demonstrated an impressive 75% accuracy in interpreting and executing commands. This promising result highlights the system’s adaptability and paves the way for future enhancements. The architecture not only shows potential for high accuracy but also serves as a flexible foundation for more advanced HRI systems, offering insights that can be further refined and adopted in various applications. With the integration of speech and vision-language processing, our solution provides a glimpse into the future of more natural and efficient human-robot collaboration.
+
+*Project Link -* [https://github.com/mezbaul-h/dobot-hci](https://github.com/mezbaul-h/dobot-hci)
