@@ -1,6 +1,6 @@
 ---
 title: "Unified deep learning and control framework for robot-assisted sonography"
-excerpt: "In this work, we proposed a novel robot-assisted ultrasound scanning framework, integrating deep multimodal imitation learning and model-based compliant control. We investigated the deep imitation learning model to fuse multimodal information, including the RGB image, force profile, ultrasound image, and proprioceptive information for robot-assisted ultrasound scanning artery. The deep imitation learning module predicts reference motion and force command. We designed a compliant controller in Cartesian space to track reference trajectory and desired force. The generalization capability of the deep multimodal imitation learning module and control performance and the quality of the acquired ultrasound image through Phantom. The results show that the proposed approach is able to improve the success rate of procedure completion, and the complete time is reduced <br/><img src='/images/ultrasound.gif'> "
+excerpt: "In this work, we proposed a novel robot-assisted ultrasound scanning framework, integrating deep multimodal imitation learning and model-based compliant control. We investigated the deep imitation learning model to fuse multimodal information, including the RGB image, force profile, ultrasound image, and proprioceptive information for robot-assisted ultrasound scanning artery.  <br/><img src='/images/ultrasound.gif'> "
 collection: portfolio
 ---
 
