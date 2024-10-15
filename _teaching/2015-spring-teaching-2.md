@@ -1,7 +1,7 @@
 ---
 title: "Advanced Embedded Systems Design (CE323)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Essex, School of Computer Science and Electronic Engineering (CSEE)"
 date: 2023-09-15
