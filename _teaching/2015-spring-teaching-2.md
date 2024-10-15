@@ -10,7 +10,4 @@ location: "Colchester, UK"
 
 Module leader for Advanced Embedded Systems Design (CE323)/(CE860)  2023
 
-Heading 1
-======
-
 
