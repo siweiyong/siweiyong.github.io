@@ -1,6 +1,6 @@
 ---
 title: "Soft Suction"
-excerpt: "Suction adhesion is widely used by natural creatures for gripping irregular objects (e.g., rocks), but their artificial counterparts show less adaptation in the same situation. In addition they can require complex sensing and control systems to function. In this paper, we present a contact-triggered suction cup with the ability to adapt to objects with complex and irregular shapes.<br/><img src='/images/soft_grasping2.gif'>"
+excerpt: "Suction adhesion is widely used by natural creatures for gripping irregular objects (e.g., rocks), but their artificial counterparts show less adaptation in the same situation. In this paper, we present a contact-triggered suction cup with the ability to adapt to objects with complex and irregular shapes.<br/><img src='/images/soft_grasping2.gif'>"
 collection: portfolio
 ---
 
