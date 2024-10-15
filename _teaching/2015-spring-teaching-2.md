@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Essex, School of Computer Science and Electronic Engineering (CSEE)"
-date: 2023-09-15
+date: 2023-09-15 - Now
 location: "Colchester, UK"
 ---
 
