@@ -8,8 +8,7 @@ location: "Bristol, UK"
 ---
 
 
-
-Associate Lecturer in Robotics and AI at the University of West of England, Bristol (UWE), UK
+Associate Lecturer in Robotics and AI at the University of West of England, Bristol (UWE), UK. 2022-2023
 
 
 Heading 1
