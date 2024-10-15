@@ -8,7 +8,7 @@ date: 2023-09-15 - Now
 location: "Colchester, UK"
 ---
 
-Module leader for Advanced Embedded Systems Design (CE323)/(CE860)
+Module leader for Advanced Embedded Systems Design (CE323)/(CE860)  2023-Now
 
 Heading 1
 ======
