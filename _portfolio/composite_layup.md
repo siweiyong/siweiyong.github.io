@@ -1,5 +1,5 @@
 ---
-title: "Franka Robot"
+title: "Robot-assisted composite layup"
 excerpt: "In this paper, an impedance control-based framework for human-robot composite layup skill transfer was developed, and the human-in-the-loop mechanism was investigated to achieve human-robot skill transfer. Although there are some works on human-robot skill transfer, it is still difficult to transfer the manipulation skill to robots through teleoperation efficiently and intuitively. In this article, we developed an impedance-based control architecture of telemanipulation in task space for the human-robot skill transfer through teleoperation. <br/><img src='/images/composite-layup.gif'>"
 collection: portfolio
 ---
