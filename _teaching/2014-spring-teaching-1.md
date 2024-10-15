@@ -3,7 +3,7 @@ title: "Robotics Foundation"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of the West of England, Bristol, School of Engineering"
-date: 2022-09-01
+date: 2022 - 2023
 location: "Bristol, UK"
 ---
 
