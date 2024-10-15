@@ -12,20 +12,24 @@ author_profile: true
 {% include base_path %}
 
 ## Selected Journal Articles
-1. Si, W., Wang, N. and Yang, C. (2021), A review on manipulation skill acquisition through teleoperation-based learning from demonstration. Cogn. Comput. Syst, 3: 1-16, doi: 10.1049/ccs2.12005. [Open Access Repository](https://repository.essex.ac.uk/36611/)
-2. Si, W., Guan, Y., & Wang, N. (2022). Adaptive compliant skill learning for contact-rich manipulation with human in the loop. IEEE Robotics and Automation Letters, 7(3), 5834-5841.
-3. Yue, T., Si, W., Partridge, A. J., Yang, C., Conn, A. T., Bloomfield-Gadêlha, H., & Rossiter, J. (2022). A contact-triggered adaptive soft suction cup. IEEE Robotics and Automation Letters, 7(2), 3600-3607.
-4. Si, W., Wang, N., Li, Q., & Yang, C. (2022). A Framework for Composite Layup Skill Learning and Generalizing Through Teleoperation. Frontiers in Neurorobotics, pp.1-16. (IF:3.493, JCR 2)
-5. Si, W., Wang, N. and Yang, C., 2021. Composite Dynamic Movement Primitives based on Neural Networks for Human–robot Skill Transfer. Neural Computing and Applications, pp.1-11. (IF:5.102, JCR 1)
-6. Zhang, D., Si, W., Fan, W., Guan, Y., & Yang, C. (2022). From Teleoperation to Autonomous Robot-assisted Microsurgery: A Survey. Machine Intelligence Research, 1-19.
-7. Lu, Z., Wang, N., Si, W., & Yang, C. Distributed Observer-based Prescribed Performance Control for Multi-Robot Deformable Object Cooperative Teleoperation. IEEE Transactions on Automation Science and Engineering, 2023.  (IF: 6.636, Top)
-8. Zhao, G., Zeng, C., Si, W., & Yang, C. A Human-Robot Collaboration Method for Uncertain Surface Scanning. CAAI Transactions on Intelligence Technology,2023. (IF:9.11, JCR 1)
-9. Dong, J., Si, W., & Yang, C. A Novel Human-robot Skill Transfer Method for Contact-rich Manipulation Task. Robotic Intelligence and Automation, 2023. (IF:2.373 , JCR 2)
-10. Xing, X., Burdet, E., Si, W., Yang, C., & Li, Y. (2023). Impedance learning for human-guided robots in contact with unknown environments. IEEE Transactions on Robotics.
-11. Si, W., Wang, N., & Yang, C. (2024). Design and Quantitative Assessment of Teleoperation-Based Human–Robot Collaboration Method for Robot-Assisted Sonography. IEEE Transactions on Automation Science and Engineering.
-12. Yue, T., Si, W., Keller, A., Yang, C., Bloomfield-Gadêlha, H., & Rossiter, J. (2024). Bioinspired multiscale adaptive suction on complex dry surfaces enhanced by regulated water secretion. Proceedings of the National Academy of Sciences, 121(16), e2314359121.
-13. Jin, Z., Si, W., Liu, A., Zhang, W. A., Yu, L., & Yang, C. (2023). Learning a flexible neural energy function with a unique minimum for globally stable and accurate demonstration learning. IEEE Transactions on Robotics.
-14. Guo, Peng, Si, W., Yang, Chenguang (2024).A Novel Framework Inspired by Human Behaviour for Peg-in-hole Assembly. Robotic Intelligence and Automation.
+1. Guo, Peng, Si, W., Yang, Chenguang (2024).A Novel Framework Inspired by Human Behaviour for Peg-in-hole Assembly. Robotic Intelligence and Automation.
+2. Luo, J., Zhang, C., Si, W., Jiang, Y., Yang, C., & Zeng, C. (2024). A Physical Human–Robot Interaction Framework for Trajectory Adaptation Based on Human Motion Prediction and Adaptive Impedance Control. IEEE Transactions on Automation Science and Engineering.
+3. Lu, Z., Si, W., Wang, N., & Yang, C. (2024). Dynamic Movement Primitives-Based Human Action Prediction and Shared Control for Bilateral Robot Teleoperation. IEEE Transactions on Industrial Electronics.
+4. Yue, T., Si, W., Keller, A., Yang, C., Bloomfield-Gadêlha, H., & Rossiter, J. (2024). Bioinspired multiscale adaptive suction on complex dry surfaces enhanced by regulated water secretion. Proceedings of the National Academy of Sciences, 121(16), e2314359121.
+5. Si, W., Wang, N., & Yang, C. (2024). Design and Quantitative Assessment of Teleoperation-Based Human–Robot Collaboration Method for Robot-Assisted Sonography. IEEE Transactions on Automation Science and Engineering.
+6. Si, W., Wang, N., & Yang, C. (2023). Composite dynamic movement primitives based on neural networks for human–robot skill transfer. Neural Computing and Applications, 35(32), 23283-23293.
+7. Jin, Z., Si, W., Liu, A., Zhang, W. A., Yu, L., & Yang, C. (2023). Learning a flexible neural energy function with a unique minimum for globally stable and accurate demonstration learning. IEEE Transactions on Robotics.
+8. Lu, Z., Wang, N., Si, W., & Yang, C. Distributed Observer-based Prescribed Performance Control for Multi-Robot Deformable Object Cooperative Teleoperation. IEEE Transactions on Automation Science and Engineering, 2023.  (IF: 6.636, Top)
+9. Xing, X., Burdet, E., Si, W., Yang, C., & Li, Y. (2023). Impedance learning for human-guided robots in contact with unknown environments. IEEE Transactions on Robotics.
+10. Dong, J., Si, W., & Yang, C. A Novel Human-robot Skill Transfer Method for Contact-rich Manipulation Task. Robotic Intelligence and Automation, 2023. (IF:2.373 , JCR 2)
+11. Zhao, G., Zeng, C., Si, W., & Yang, C. A Human-Robot Collaboration Method for Uncertain Surface Scanning. CAAI Transactions on Intelligence Technology,2023. (IF:9.11, JCR 1)
+12. Zhang, D., Si, W., Fan, W., Guan, Y., & Yang, C. (2022). From Teleoperation to Autonomous Robot-assisted Microsurgery: A Survey. Machine Intelligence Research, 1-19.
+13. Si, W., Guan, Y., & Wang, N. (2022). Adaptive compliant skill learning for contact-rich manipulation with human in the loop. IEEE Robotics and Automation Letters, 7(3), 5834-5841.
+14. Si, W., Wang, N., Li, Q., & Yang, C. (2022). A Framework for Composite Layup Skill Learning and Generalizing Through Teleoperation. Frontiers in Neurorobotics, pp.1-16. (IF:3.493, JCR 2)
+15. Yue, T., Si, W., Partridge, A. J., Yang, C., Conn, A. T., Bloomfield-Gadêlha, H., & Rossiter, J. (2022). A contact-triggered adaptive soft suction cup. IEEE Robotics and Automation Letters, 7(2), 3600-3607.
+16. Si, W., Wang, N. and Yang, C. (2021), A review on manipulation skill acquisition through teleoperation-based learning from demonstration. Cogn. Comput. Syst, 3: 1-16, doi: 10.1049/ccs2.12005. [Open Access Repository](https://repository.essex.ac.uk/36611/)
+
+    
 
 
 ## Selected Conference Papers
