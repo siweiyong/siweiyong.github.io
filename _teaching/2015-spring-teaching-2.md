@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Advanced Embedded Systems Design (CE323)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Essex, School of Computer Science and Electronic Engineering (CSEE)"
+date: 2023-09-15
+location: "Colchester, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Module leader for Advanced Embedded Systems Design (CE323)/(CE860)
 
 Heading 1
 ======
 
-Heading 2
-======
 
-Heading 3
-======
