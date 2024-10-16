@@ -1,5 +1,5 @@
 ---
-title: "Autonomous landing of multi-rotors UAV with monocular gimbaled camera on moving vehicle"
+title: "Waste Robot: Vision-based waste sorting system"
 excerpt: "Sorting wood waste from other waste streams using robotic systems involves the use of advanced technology and automation to efficiently separate wood materials from mixed waste. This project studied vision-based solution for waste sorting by Baxter robot arm.<br/><img src='/images/waste_recycling.gif'>"
 collection: portfolio
 ---
