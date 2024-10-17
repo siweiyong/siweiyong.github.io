@@ -26,7 +26,5 @@ Appointments
 ======
 **University of Essex**
 - Lecturer, School of Computer Science and Electronic Engineering (9/2023 - Present)
-
-**Other Academic**
 - Reasearch Assistant, Bristol Robotics Laboratory (1/2020 - 9/2023)
 - Associate Lecturer, University of the West of England (9/2022 - 5/2023)
