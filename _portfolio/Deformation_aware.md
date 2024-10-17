@@ -1,6 +1,6 @@
 ---
 title: "Deformation-aware contact-rich manipulation skills learning and compliant control"
-excerpt: "In this paper, we study a vision-based reactive adaptation method for contact-rich manipulation tasks, based on the compliant control and learning from demonstration. <br/><img src='/images/Dough_rolling_success-ezgif.com-video-to-gif-converter.gif'>"
+excerpt: "In this work, we developed a vision-based reactive adaptation method for contact-rich manipulation tasks, based on the compliant control and learning from demonstration. <br/><img src='/images/Dough_rolling_success-ezgif.com-video-to-gif-converter.gif'>"
 collection: portfolio
 ---
 
